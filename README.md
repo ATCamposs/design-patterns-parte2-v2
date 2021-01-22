@@ -14,3 +14,8 @@
     - O padrão Decorator é muito poderoso e bastante comum de ser implementado, mas possui alguns detalhes importantes a serem observados, como o fato do Decorator precisar possuir a mesma interface do objeto que ele está decorando.
     - O Decorator é um padrão de projeto estrutural que permite que você acople novos comportamentos para objetos ao colocá-los dentro de invólucros de objetos que contém os comportamentos.
     - https://refactoring.guru/pt-br/design-patterns/decorator
+
+ - **Composite**
+    - É bastante comum nós precisarmos trabalhar com coleções de itens que podem ter mais de uma implementação. Se essa estrutura pode ser descrita como uma árvore (no modelo computacional), então o padrão Composite pode ser muito útil.
+    - O Composite é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
+    - https://refactoring.guru/pt-br/design-patterns/composite
