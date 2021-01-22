@@ -29,4 +29,7 @@
     - O Proxy é um padrão de projeto estrutural que permite que você forneça um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo ou antes ou depois do pedido chegar ao objeto original.
     - https://refactoring.guru/design-patterns/proxy
 
-    
+ - **FlyWeight**
+    - Se em algum momento você se deparar com milhões de objetos sendo armazenados em memória e um consumo muito alto desse recurso, talvez esse padrão possa te salvar, mas lembre-se: essa situação não acontece rotineiramente.
+    - O Flyweight é um padrão de projeto estrutural que permite a você colocar mais objetos na quantidade de RAM disponível ao compartilhar partes comuns de estado entre os múltiplos objetos ao invés de manter todos os dados em cada objeto.
+    - https://refactoring.guru/pt-br/design-patterns/flyweight
