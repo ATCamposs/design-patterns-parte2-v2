@@ -25,3 +25,8 @@
     - O Facade é um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes.
     - https://refactoring.guru/pt-br/design-patterns/facade
 
+ - **Proxy**
+    - O Proxy é um padrão de projeto estrutural que permite que você forneça um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo ou antes ou depois do pedido chegar ao objeto original.
+    - https://refactoring.guru/design-patterns/proxy
+
+    
